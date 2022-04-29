@@ -2,6 +2,7 @@
 
 Overview
 ========
+Fork of ROS driver for Velodyne LiDARs for Leo Rover point cloud collection.
 
 Velodyne<sup>1</sup> is a collection of ROS<sup>2</sup> packages supporting `Velodyne high
 definition 3D LIDARs`<sup>3</sup>.
