@@ -3,7 +3,7 @@
 # curl http://192.168.0.201/cgi/status.json
 # sleep 1
 
-init_rpm=300
+init_rpm=600
 rpm_desired=300
 
 if [ $init_rpm -gt $rpm_desired ]
