@@ -1,1 +1,1 @@
-rviz rviz -f velodyne
+rosrun rviz rviz -f velodyne
