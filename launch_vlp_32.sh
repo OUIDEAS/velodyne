@@ -1,1 +1,1 @@
-roslaunch velodyne_pointcloud VLP-32C_points.launch
+roslaunch velodyne_pointcloud moleski-VLP-32C_points.launch

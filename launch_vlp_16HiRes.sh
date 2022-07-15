@@ -1,0 +1,1 @@
+roslaunch velodyne_pointcloud VLP16HiRes_points.launch --screen
